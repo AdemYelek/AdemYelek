@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png)
+[![MasterHead](https://t3.ftcdn.net/jpg/01/96/03/94/360_F_196039475_6MbF6oSsJJIQdSkS5sBUl52JfvYVSeNP.jpg)
 <h1 align="center">Hi 👋, I'm Adem Yelek</h1>
 <h3 align="center">SDET and Full Stack Automation Tester (Intern-Student)</h3>
 
